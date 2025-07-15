@@ -25,14 +25,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hydralune&show_icons=true&theme=default&border_color=dfe1e5&bg_color=ffffff&text_color=333333" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydralune&layout=compact&theme=default&border_color=dfe1e5&bg_color=ffffff&text_color=333333" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lijiandao&show_icons=true&theme=default&border_color=dfe1e5&bg_color=ffffff&text_color=333333" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijiandao&layout=compact&theme=default&border_color=dfe1e5&bg_color=ffffff&text_color=333333" />
 </p>
 
 
 
 <!--
-**Hydralune/Hydralune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lijiandao/lijiandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
