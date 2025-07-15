@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-**Software Engineering Student** @ Huazhong University of Science and Technology  
-🌟 *Dreaming to become a future tech leader*  
+🌟 **Software Engineering Student** *Li Zijing*@ Huazhong University of Science and Technology  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=68D7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Enthusiast;AI+Explorer" alt="Typing Animation" />
@@ -10,15 +9,10 @@
 
 ### 🚀 About Me
 
-🌱 **Learning** React & Artificial Intelligence (TensorFlow)  
-💬 **Ask Me About** Python | JavaScript | Electron  
-📫 **Professional Contact**: [![Gmail](https://img.shields.io/badge/-haoylon@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:haoylon@gmail.com)  
-
-### ✨ Fun Tech Experiment
-
-📮 **Magic Email**:  
-[your-idea@ylon.xyz](mailto:test@ylon.xyz)  
-*(Try sending to any prefix@ylon.xyz!)*  
+🌱 **Learning** React & Artificial Intelligence (PyTorch)  
+💬 **Ask Me About** Python | JavaScript | Electron  | Html | CSS | C++ | Computer Science
+📮 **Email**:  
+[lizijingstudy@gmail.com](mailto:lizijingstudy@gmail.com)  
 
 ---
 
